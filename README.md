@@ -24,8 +24,8 @@ This website showcases Coco Chanel's life, career journey, and lasting legacy th
 
 ## Getting Started
 ```bash
-git clone https://github.com/jktchikapa/coco-chanel-website.git
-cd coco-chanel-website
+git clone https://github.com/jktchikapa/coco-chanel-website-school-project
+cd coco-chanel-website-school-project
 ```
 
 Open `index.html` in your browser to view the website.
