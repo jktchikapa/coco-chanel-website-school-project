@@ -33,7 +33,7 @@ Open `index.html` in your browser to view the website or just do the "start inde
 
 ## Credits
 - [Jessica Karelle](https://github.com/jktchikapa)
-- [Patricelie Rimelda](https://github.com/Patricelie)
+- [Patricelie Rimelda](https://github.com/patricelie)
 
 ## License
 Educational Project
